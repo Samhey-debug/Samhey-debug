@@ -1,21 +1,23 @@
-# ◇ dev from brazil
+# ◈ dev/chaos
 
-## △ who am i
-young coder | professional bug creator
-turning caffeine into code (mostly broken)
+```js
+const myLife = {
+  age: 14,
+  location: '[ portugal ]',
+  status: '~ professional bug generator ~',
+  mood: '{ undefined }'
+}
+```
 
-### ☆ skills
-` python ` ` js ` ` html ` ` css `
-*aka: expert in googling solutions*
+## △ skills.exe
 
-### ◈ my world
-- learning new tech
-- breaking things accidentally
-- fixing stuff 50% of the time
+` aoi.js ` ` discord.js ` ` web nonsense `
 
-### ◊ real talk
-coding > social life
-debugging = my superpower
-sleep is for the weak
+### ◇ runtime(reality)
+- breaking code faster than fixing it
+- turning coffee into random errors
+- professional disappointment architect
 
-*error 404: social skills not found*
+> compiler status: *mostly broken*
+
+*send help. or coffee.*
